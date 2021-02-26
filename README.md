@@ -1,2 +1,4 @@
 # firstR
-first R project version control
+
+This is my first R project folder
+
